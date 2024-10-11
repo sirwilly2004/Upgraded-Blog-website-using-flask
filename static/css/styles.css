@@ -1,0 +1,10 @@
+.delete-link {
+  color: red; /* Change this to your preferred color */
+  font-weight: bold; /* Optional: makes the text bold */
+  text-decoration: underline; /* Optional: underlines the text */
+}
+
+.delete-link:hover {
+  color: darkred; /* Change color when hovered */
+  cursor: pointer; /* Changes cursor to pointer on hover */
+}
